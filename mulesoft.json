@@ -1,0 +1,14 @@
+{
+   "v":"1.2",
+   "vcs":"git",
+   "vcsurl":"https://github.com/mulesoft/api-console",
+   "commitid":"bd15fe082ee0abf3a34fc2514e5cbadb1637c879",
+   "action":"openproject",
+   "projectattributes":{
+      "pname":"mulesoft-api",
+      "ptype":"AngularJS"
+   },
+   "author": "Florent Benoit",
+   "image":"http://factories.codenvy.com/images/angular.jpg",
+   "style":"Advanced"
+}
